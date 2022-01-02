@@ -23,7 +23,7 @@
 - OS  : Windows 7
 
 # 상세 내용
-- 3D Solar System.pdf 참고
+- AirLine_Client.pdf 참고
 
 # 기타 개인 의견
 - 팀장분의 실력이 좋았어서 배울점이 많았었다.
